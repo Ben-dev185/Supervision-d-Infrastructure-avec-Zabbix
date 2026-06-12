@@ -38,7 +38,7 @@ Ce laboratoire reproduit les besoins réels d'une équipe d'exploitation informa
 ##  Architecture du projet
 
 
-![Architecture](captures/hosts-monitoring.png)
+![Architecture](https://github.com/Ben-dev185/Supervision-d-Infrastructure-avec-Zabbix/blob/e812d02c0eb705d03fee62b8aa3d358a5e7f1205/Architecture.png)
    
                    
 
