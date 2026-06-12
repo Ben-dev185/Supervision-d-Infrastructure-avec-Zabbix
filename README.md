@@ -106,7 +106,7 @@ Notifications automatiques envoyées par email en cas d'incident ou de dépassem
 
 ---
 
-## 🔍 Métriques surveillées
+##  Métriques surveillées
 
 * Charge processeur
 * Utilisation mémoire
