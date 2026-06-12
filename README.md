@@ -1,6 +1,6 @@
 #  Supervision d'Infrastructure avec Zabbix
 
-## 📋 Présentation
+##  Présentation
 
 Ce projet consiste à déployer et configurer une solution complète de supervision avec Zabbix afin de surveiller en temps réel une infrastructure composée de plusieurs serveurs Linux virtualisés sous VMware.
 
@@ -102,7 +102,7 @@ Notifications automatiques envoyées par email en cas d'incident ou de dépassem
 
 ### Détection automatique d'une panne d'agent
 
-![Agent Down](captures/agent-down.png)
+![Agent Down](https://github.com/Ben-dev185/Supervision-d-Infrastructure-avec-Zabbix/blob/46a9b028d80859cb7c716cee20bd476b26252346/Detection%20d'alerte.png)
 
 ---
 
