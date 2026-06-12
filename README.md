@@ -94,7 +94,7 @@ Notifications automatiques envoyées par email en cas d'incident ou de dépassem
 
 ### Ajout et supervision des hôtes
 
-![Hôtes supervisés](captures/hosts-monitoring.png)
+![Hôtes supervisés](https://github.com/Ben-dev185/Supervision-d-Infrastructure-avec-Zabbix/blob/bd935440cb486f0a3eb2bdc6b15186e99c0ed5d9/configuration%20et%20supervision%20des%20hotes.png)
 
 ### Gestion des événements et alertes
 
