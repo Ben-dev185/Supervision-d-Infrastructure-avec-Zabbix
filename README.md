@@ -98,7 +98,7 @@ Notifications automatiques envoyées par email en cas d'incident ou de dépassem
 
 ### Gestion des événements et alertes
 
-![Événements](captures/events-alerts.png)
+![Événements](https://github.com/Ben-dev185/Supervision-d-Infrastructure-avec-Zabbix/blob/97e66d7662c9c53fa83dec51f6d57aa717178698/gestion.png)
 
 ### Détection automatique d'une panne d'agent
 
